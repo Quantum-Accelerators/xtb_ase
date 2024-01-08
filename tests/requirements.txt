@@ -2,4 +2,4 @@ https://gitlab.com/ase/ase/-/archive/master/ase-master.zip
 git+https://github.com/cclib/cclib.git
 jinja2==3.1.2
 monty==2023.11.3
-numpy==1.26.2
+numpy==1.26.3
